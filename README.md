@@ -34,8 +34,7 @@ A Python-based web scraper and Streamlit app to aggregate job listings from mult
     pip install -r requirements.txt
     ```
 
-4. Make sure you have Chrome browser installed and ChromeDriver accessible in your PATH.  
-   Download ChromeDriver: https://sites.google.com/chromium.org/driver/
+
 
 ---
 
