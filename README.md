@@ -45,6 +45,11 @@ Run the Streamlit app:
 ```bash
 streamlit run app.py
 
+- Enter a job keyword (e.g., "software Engineering").
+- Click **Search Jobs**.
+- View the aggregated job listings in a table.
+
+
 file structure:
 **link_scraper/
 ├── app.py                     # Main Streamlit web app
